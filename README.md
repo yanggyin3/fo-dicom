@@ -1,6 +1,6 @@
 <img src="https://lh3.googleusercontent.com/-Fq3nigRUo7U/VfaIPuJMjfI/AAAAAAAAALo/7oaLrrTBhnw/s1600/Fellow%2BOak%2BSquare%2BTransp.png" alt="fo-dicom logo" height="80" />
 
-# Fellow Oak DICOM
+# Fellow Oak DICOM.
 
 [![NuGet](https://img.shields.io/nuget/v/fo-dicom.svg)](https://www.nuget.org/packages/fo-dicom/)
 ![build development](https://github.com/fo-dicom/fo-dicom/workflows/build/badge.svg?branch=development)
